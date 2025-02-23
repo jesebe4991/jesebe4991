@@ -95,7 +95,7 @@ Si tienes un proyecto en mente, no dudes en contactarme.
 
 ## 📫 Cómo contactarme
 
-- **Email**: [tuemail@example.com](mailto:jesebe4991@gmail.com)
+- **Email**: [jesebe4991@gmail.com](mailto:jesebe4991@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/jean-sebastian-benitez-benitez-563882198/]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jean-sebastian-benitez-benitez-563882198/))
 - **GitHub**: [@jesebe4991](https://github.com/jesebe4991)
 
